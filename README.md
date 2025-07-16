@@ -1,23 +1,27 @@
-### News
-1. Our paper is accepted by ICME2025(ORAL)
+## News 🎉
+Our paper has been accepted by ICME 2025 (Oral Presentation)! 🥳
+## Our Network & FRLoss 🔍
+### Location of Our Network and Other Networks 🏡
+Our network and other networks are located at: nnUNet/nnunetv2/nnUNetTrainer/variants/network_architecture
 
-### Our Network & FRLoss
-1. Our network and other networks are located in: nnUNet/nnunetv2/nnUNetTrainer/variants/network_architecture
-2. The path of the loss in: nnUNet/nnunetv2/training/loss/compound_losses.py
-### Private Dataset
-We will later open-source our used dataset, which is a large DCE-MRI breast cancer dataset. We believe this will facilitate the development of related works.
+### Location of the Loss Function 🎯
+The path to the loss function is: nnUNet/nnunetv2/training/loss/compound_losses.py
 
-### Public Dataset
-1. https://www.synapse.org/Synapse:syn60868042/wiki/628716
-2. https://zenodo.org/records/8068383
+## Private Dataset ✨
+We plan to open-source our private dataset, which is a large DCE-MRI breast cancer dataset. 💎 We believe this will significantly facilitate the development of related research in the field. 💪
 
-### Related to other mamba used in the paper
-1. https://github.com/wjh892521292/LKM-UNet
-2. https://github.com/bowang-lab/U-Mamba
-3. https://github.com/CYB08/MambaClinix-PyTorch
+## Public Datasets 👀
+For public datasets, please refer to the following links:
 
-If you are interested in the mamba model used for comparison experiments in this article, please refer to the above link for configuration.
-### About ckpt and prediction of Public Dataset
+1. https://www.synapse.org/Synapse:syn60868042/wiki/628716 🔗
 
-Due to the storage space of all the checkpoints and prediction results, we will open source all the files after the paper is accepted
+2. https://zenodo.org/records/8068383 🔗
 
+## Related Mamba Models Used in the Paper 🐍
+If you're interested in the Mamba models used for comparison experiments in this article, please refer to the following links for their configurations:
+
+1. https://github.com/wjh892521292/LKM-UNet 💻
+
+2. https://github.com/bowang-lab/U-Mamba 💻
+
+3. https://github.com/CYB08/MambaClinix-PyTorch 💻
