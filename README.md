@@ -1,3 +1,6 @@
+### News
+1. Our paper is accepted by ICME2025(ORAL)
+
 ### Our Network & FRLoss
 1. Our network and other networks are located in: nnUNet/nnunetv2/nnUNetTrainer/variants/network_architecture
 2. The path of the loss in: nnUNet/nnunetv2/training/loss/compound_losses.py
